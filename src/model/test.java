@@ -2,6 +2,6 @@ package model;
 
 public class test {
     public static void main(String[] args) {
-        //Murod
+        System.out.println("UmarAli");
     }
 }
